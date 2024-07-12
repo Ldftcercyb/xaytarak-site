@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color:#3F98DC ;
+}
+.right{
+    margin-left: 20px;
+    display: inline-block;
+}
+.text_right{
+    position: absolute;
+    margin-bottom:2px;
+    color: white;
+    text-align: right;
+}
+.left{
+    color: white;
+    margin-left: 1400px;
+}
+.righttext{
+    color: white;
+    position: absolute;
+    margin-left: 240px;
+    margin: bottom 15px;
+}
+.header2{
+    width: 80%;
+    height: 100px;
+}
+.testcolor{
+    position: absolute;
+    left: 70px;
+    margin-top: 13px;
+    color: black;
+}
+.text_left{
+    right: 25px;
+    width: 100px;
+
+}
+.textp{
+    left: 80px;
+    margin-top:50px ;
+    position: absolute;
+    color: rgb(36, 36, 35);
+}
+.inputsearch{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 1300px;
+    margin-top: 20px;
+}
+.headerthree{
+    width: 100%;
+    height: 50px;
+    background-color: #3F98DC;
+
+}
+.item{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+}
+.img_2{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+.tapancikbackground{
+    left: 250px;
+    bottom: 300px;
+    position: absolute;
+    width: 350px;
+    height: 120px;
+    background-color: rgba(8, 8, 8, 0.455);
+}
+.h1color{
+    color: wheat;
+}
+.nuttoncolor{
+    margin-left: 15px;
+    color: white;
+    margin-top: 5px;
+    width: 170px;
+    height: 50px;
+    background-color: blue;
+}
+.itemtest{
+    position: absolute;
+    left: 380px;
+    bottom: 50px;
+    width: 900px;
+    height: 200px;
+}
+.category{
+    display: inline-block;
+    width: 200px;
+    height: 200px;      
+}
+.category_1{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+}
+
+.category_2{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(4, 183, 254);
+}
+.category_3{
+    margin-top: 20px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(60, 255, 0);
+}
+.category_4{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 34, 0);
+}
+.aac{
+    margin-top: 50px;
+    bottom: 15px;
+    text-align: center;
+    color: white;
+}
+.TXTCOLOR{
+    text-align: left;
+    width:195px ;
+    color: white;
+    padding: 15px;
+}
+.h1textcenter{
+    margin-top: 200px;
+    text-align: center;
+    
+}
+.ptextalc{
+    text-align: center;
+    color: rgb(56, 56, 57);
+}
+.dib{
+    margin-left: 15px;
+    text-align: center;
+    width:300px;
+    height: 100px;
+    display: inline-block;
+    border: 3px solid rgb(195, 192, 192);
+}
+.h1txtcolorblue{
+    color: aqua;
+}
+/*  
+inline sax havaqum a mi tex pahuma mejiny ira chapov
+    none anhetanum a 
+    inline-block X eri arancqi shurj 
+    */
